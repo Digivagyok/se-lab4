@@ -1,0 +1,6 @@
+# If the next store is empty, SINGLE falls back to the other store.
+GT4500,1,0.0,2,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
