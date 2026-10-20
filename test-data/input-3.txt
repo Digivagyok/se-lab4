@@ -1,0 +1,5 @@
+# ALL fires both stores; the two later SINGLE attempts verify both are empty.
+GT4500,1,0.0,1,0.0
+TORPEDO,ALL
+TORPEDO,SINGLE
+TORPEDO,SINGLE

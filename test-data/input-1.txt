@@ -1,0 +1,8 @@
+# A failed shot does not try the other store, and SINGLE alternates stores.
+GT4500,1,1.0,2,0.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,SINGLE
